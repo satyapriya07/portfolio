@@ -17,7 +17,7 @@ const userData = {
   },
   skills: {
     'Programming Languages': ['C', 'Java', 'Python', 'R', 'JavaScript'],
-    'Frameworks/Libraries': ['Angular', 'React.js', 'Node.js', 'Express.js', 'NumPy', 'Pandas'],
+    'Frameworks/Libraries': ['Angular', 'React.js', 'Next.js', 'Node.js', 'Express.js','FastAPI', 'NumPy', 'Pandas'],
     'Databases': ['MySQL', 'MongoDB'],
     'Tools': ['Git', 'GitHub']
   },
